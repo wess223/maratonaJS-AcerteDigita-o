@@ -1,8 +1,3 @@
-# maratonaJS-Typing
-Projeto básico para fins didáticos na qual aparece uma palavra e você deve digitar de acordo com a palavra mostrada.
-
-#Tecnologias: 
-ReactJS, ES6.
-
-#Editor: 
-VSCODE
+# maratonajs-typing
+Projeto básico para fins didáticos.
+Onde será sorteada uma palavra e devo escrever de acordo com a mesma sorteada para contabilizar quantas palavras acertadas na digitação.
